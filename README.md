@@ -47,4 +47,4 @@ A simple React blog editor page with draft saving, validation, and publish funct
    cd Blog
 ## Preview
 
-![Blog Preview](https://raw.githubusercontent.com/balaahir007/Blog/main/frontend/public/preview.png)
+![Blog Preview](https://github.com/balaahir007/Blog_Assignment/blob/master/frontend/public/preview.png)
