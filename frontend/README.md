@@ -1,4 +1,5 @@
-![Blog Preview](https://raw.githubusercontent.com/balaahir007/Blog/main/frontend/public/preview.png)
+## Preview
+![Blog Preview](./public/preview.png)
 
 # BlogPage React Component
 
@@ -46,5 +47,4 @@ A simple React blog editor page with draft saving, validation, and publish funct
    ```bash
    git clone https://github.com/balaahir007/Blog.git
    cd Blog
-## Preview
 
